@@ -4,7 +4,7 @@ main:
     authors: <strong>Sayanton Dibbo</strong>, Adam Breuer, Juston Moore, Michael Teti
     conference_short: ECCV
     conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
-    pdf: https://drive.google.com/file/d/1ndpCKLAwtBP1qdPuzFVKm1YGplJiZkiZ/view?usp=sharing
+    pdf: ./assets/files/SCA_2024.pdf
     page: https://sites.google.com/dartmouth.edu/sayanton-dibbo/sca
     arxiv: https://arxiv.org/abs/2403.14772
     bibtex: https://drive.google.com/file/d/1hgepC1pZ9eIgh_FelXAVe8xv45TNjHfp/view?usp=sharing
@@ -15,7 +15,7 @@ main:
     authors: <strong>Sayanton Dibbo</strong>, Juston Moore, Garrett Kenyon, Michael Teti
     conference_short: ICASSP
     conference: IEEE International Conference on Acoustics, Speech and Signal Processing Workshops <strong>(ICASSPW)</strong>, 2024.
-    pdf: https://drive.google.com/drive/folders/1b2TUV-3ep6Lx28kz9xCiJUoTPeij_mok?usp=sharing
+    pdf: ./assets/files/LCANets++_ICASSP.pdf
     page: https://sites.google.com/dartmouth.edu/sayanton-dibbo/lcanets
     arxiv: https://arxiv.org/abs/2308.12882
     bibtex: https://drive.google.com/file/d/1Q2RQH56QLvB35xsfyBz45kjUlBjEkCLj/view?usp=sharing
