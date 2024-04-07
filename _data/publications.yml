@@ -1,15 +1,14 @@
 main:
 
   - title: Improving Robustness to Model Inversion Attacks via Sparse Coding Architectures
-    authors: <strong>Sayanton Dibbo,</strong> Adam Breuer, Juston Moore, Michael Teti
-    conference_short: Under Review
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    arxiv: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
+    authors: <strong>Sayanton Dibbo</strong>, Adam Breuer, Juston Moore, Michael Teti
+    conference_short: ECCV
+    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
+    pdf: https://drive.google.com/drive/u/3/folders/1od7AtpeusHu0G4xn_FgW85qTln_9-wbH
+    arxiv: https://arxiv.org/abs/2403.14772
+    bibtex: https://drive.google.com/file/d/1hgepC1pZ9eIgh_FelXAVe8xv45TNjHfp/view?usp=sharing
     image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+    notes: Under Review
     
   - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
     authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
