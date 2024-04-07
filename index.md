@@ -14,6 +14,7 @@ In my free time, I love to travel to new places.
 - **Security/Privacy:** Privacy and Adversarial Attacks/Defense
 - **Machine Learning:** Trustworthy and Robust ML Modeling
 - **Computer Vision/Speech Processing:** Robust Computer Vision and Speech Modeling
+- **Authentication:** Biometric-based user authentication
 
 
 ## News
