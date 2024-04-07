@@ -1,0 +1,8 @@
+@inproceedings{dibbo2023sok,
+  title={Sok: Model inversion attack landscape: Taxonomy, challenges, and future roadmap},
+  author={Dibbo, Sayanton V},
+  booktitle={2023 IEEE 36th Computer Security Foundations Symposium (CSF)},
+  pages={439--456},
+  year={2023},
+  organization={IEEE}
+}
