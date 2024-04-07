@@ -8,6 +8,5 @@
     <li><a href="https://www.usenix.org/conference/usenixsecurity23/call-for-artifacts/"><autocolor>USENIX Security Artifact Evaluation Committee 2023</autocolor></a></li>
   <li><a href="https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=5962385/"><autocolor>IEEE Transactions on Neural Networks and Learning Systems <strong>(TNNLS)</strong> 2023</autocolor></a></li>
     <li><a href="https://www.usenix.org/conference/usenixsecurity21/"><autocolor>USENIX Security Symposium 2021</autocolor></a></li>
-
 </ul>
 
