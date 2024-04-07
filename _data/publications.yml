@@ -21,3 +21,12 @@ main:
     bibtex: ./assets/files/LCANets++_bibtex.txt
     image: ./assets/img/teaser_example_3.png
     notes: Just Accepted 
+    
+  - title: SoK: Model Inversion Attack Landscape: Taxonomy, Challenges, and Future Roadmap
+    authors: <strong>Sayanton Dibbo</strong>
+    conference_short: CSF
+    conference: IEEE 36th Computer Security Foundations Symposium  <strong>(CSF)</strong>, 2023.
+    pdf: https://ieeexplore.ieee.org/document/10221914
+    bibtex: ./assets/files/sok_bibtex.txt
+    image: ./assets/img/teaser_example_3.png
+    notes: Published 
