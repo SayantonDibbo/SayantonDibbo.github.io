@@ -1,0 +1,6 @@
+@article{dibbo2024improving,
+  title={Improving Robustness to Model Inversion Attacks via Sparse Coding Architectures},
+  author={Dibbo, Sayanton V and Breuer, Adam and Moore, Juston and Teti, Michael},
+  journal={arXiv preprint arXiv:2403.14772},
+  year={2024}
+}

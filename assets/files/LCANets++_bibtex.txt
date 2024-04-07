@@ -1,0 +1,6 @@
+@article{dibbo2023lcanets++,
+  title={LCANets++: Robust Audio Classification using Multi-layer Neural Networks with Lateral Competition},
+  author={Dibbo, Sayanton V and Moore, Juston S and Kenyon, Garrett T and Teti, Michael A},
+  journal={arXiv preprint arXiv:2308.12882},
+  year={2023}
+}
