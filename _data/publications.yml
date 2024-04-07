@@ -7,7 +7,7 @@ main:
     pdf: ./assets/files/SCA_2024.pdf
     page: https://sites.google.com/dartmouth.edu/sayanton-dibbo/sca
     arxiv: https://arxiv.org/abs/2403.14772
-    bibtex: https://drive.google.com/file/d/1hgepC1pZ9eIgh_FelXAVe8xv45TNjHfp/view?usp=sharing
+    bibtex: ./assets/files/SCA_2024_bibtex.txt
     image: ./assets/img/teaser_example_2.png
     notes: Under Review
 
@@ -18,7 +18,7 @@ main:
     pdf: ./assets/files/LCANets++_ICASSP.pdf
     page: https://sites.google.com/dartmouth.edu/sayanton-dibbo/lcanets
     arxiv: https://arxiv.org/abs/2308.12882
-    bibtex: https://drive.google.com/file/d/1Q2RQH56QLvB35xsfyBz45kjUlBjEkCLj/view?usp=sharing
+    bibtex: ./assets/files/LCANets++_bibtex.txt
     image: ./assets/img/teaser_example_3.png
     notes: Just Accepted 
     
