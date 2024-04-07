@@ -17,8 +17,8 @@ In my free time, I love to travel to new places.
 
 ## News
 
-- **[Mar. 2024]** Received Dartmouth Graduate Student Council Travel Grant for ICASSP 2024 Conference travel.
-- **[Feb. 2024]** Our Paper on Audio Robustness is accepted @ICASSP 2024 Workshop on Trustworthy Speech Processing.
+- **[Mar. 2024]** Received Dartmouth Graduate Student Council Travel Grant for ICASSP 2024.
+- **[Feb. 2024]** Our Paper on Audio Robustness is accepted @ICASSP 2024 Workshop.
 - **[Jan. 2024]** Awarded Cybersecurity Cluster Research Fellow.
 - **[Nov. 2023]** Passed my PhD Thesis Proposal.
 - **[Aug. 2023]** Presented Research Poster @ ACM ICONS, Santa Fe, NM.
