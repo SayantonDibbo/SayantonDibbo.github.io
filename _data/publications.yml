@@ -11,16 +11,7 @@ main:
     image: ./assets/img/teaser_example_2.png
     notes: Under Review
 
-  - title: LCANets++: Robust Audio Classification using Multi-layer Neural Networks with Lateral Competition
-    authors: <strong>Sayanton Dibbo</strong>, Juston Moore, Garrett Kenyon, Michael Teti
-    conference_short: ICASSP
-    conference: IEEE International Conference on Acoustics, Speech and Signal Processing Workshops <strong>(ICASSPW)</strong>, 2024.
-    pdf: https://drive.google.com/drive/folders/1b2TUV-3ep6Lx28kz9xCiJUoTPeij_mok?usp=sharing
-    page: https://sites.google.com/dartmouth.edu/sayanton-dibbo/lcanets
-    arxiv: https://arxiv.org/abs/2308.12882
-    bibtex: https://drive.google.com/file/d/1Q2RQH56QLvB35xsfyBz45kjUlBjEkCLj/view?usp=sharing
-    image: ./assets/img/teaser_example_3.png
-    notes: Just Accepted 
+
     
   - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
     authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
