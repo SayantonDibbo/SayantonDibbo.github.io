@@ -13,7 +13,7 @@ main:
 
   - title: "LCANets++: Robust Audio Classification using Multi-layer Neural Networks with Lateral Competition"
     authors: <strong>Sayanton Dibbo</strong>, Juston Moore, Garrett Kenyon, Michael Teti
-    conference_short: ICASSP
+    conference_short: ICASSPW
     conference: IEEE International Conference on Acoustics, Speech and Signal Processing Workshops <strong>(ICASSPW)</strong>, 2024.
     pdf: ./assets/files/LCANets++_ICASSP.pdf
     page: https://sites.google.com/dartmouth.edu/sayanton-dibbo/lcanets
