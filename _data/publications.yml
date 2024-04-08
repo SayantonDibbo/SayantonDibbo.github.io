@@ -2,7 +2,7 @@ main:
 
   - title: Improving Robustness to Model Inversion Attacks via Sparse Coding Architectures
     authors: <strong>Sayanton Dibbo</strong>, Adam Breuer, Juston Moore, Michael Teti
-    conference_short: Under review
+    conference_short: XXX
     conference: Under review, 2024.
     pdf: ./assets/files/SCA_2024.pdf
     page: https://sites.google.com/dartmouth.edu/sayanton-dibbo/sca
