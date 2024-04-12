@@ -40,6 +40,16 @@ main:
     bibtex: ./assets/files/tdsc_bibtex.txt
     image: ./assets/img/teaser_example_8.png
     notes: Published 
+
+  - title: "How Can Neuroscience Help Us Build More Robust Deep Neural Networks?"
+    authors:  <strong>Sayanton Dibbo</strong>, Siddharth Mansingh, Jocelyn Rego, Garrett Kenyon, Juston Moore, Michael Teti
+    conference_short: AdvML
+    conference: ICML Workshop on Adversarial Machine Learning  <strong>(AdvML)</strong>, 2023.
+    pdf: https://openreview.net/pdf?id=pFf7dqBmf0
+    bibtex: ./assets/files/advml_bibtex.txt
+    image: ./assets/img/teaser_example_9.png
+    presentation: https://icml.cc/virtual/2023/26109
+    notes: Published 
     
   - title: "Model Inversion Attack with Least Information and an In-depth Analysis of its Disparate Vulnerability"
     authors: <strong>Sayanton Dibbo</strong>, Dae Lim Chung, Shagufta Mehnaz
