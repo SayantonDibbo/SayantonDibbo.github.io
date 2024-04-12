@@ -39,6 +39,7 @@ main:
     pdf: https://openreview.net/pdf?id=pFf7dqBmf0
     bibtex: ./assets/files/tdsc_bibtex.txt
     image: ./assets/img/teaser_example_8.png
+    presentation: https://icml.cc/virtual/2023/26109
     notes: Published 
     
    - title: "Bag of on-phone ANNs to secure IoT objects using wearable and smartphone biometrics"
