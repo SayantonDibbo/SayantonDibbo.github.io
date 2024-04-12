@@ -1,0 +1,8 @@
+@inproceedings{dibbo2023model,
+  title={Model inversion attack with least information and an in-depth analysis of its disparate vulnerability},
+  author={Dibbo, Sayanton V and Chung, Dae Lim and Mehnaz, Shagufta},
+  booktitle={2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)},
+  pages={119--135},
+  year={2023},
+  organization={IEEE}
+}
