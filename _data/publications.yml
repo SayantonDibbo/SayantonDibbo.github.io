@@ -37,8 +37,8 @@ main:
     conference_short: AdvML
     conference: ICML Workshop on Adversarial Machine Learning  <strong>(AdvML)</strong>, 2023.
     pdf: https://openreview.net/pdf?id=pFf7dqBmf0
-    bibtex: ./assets/files/tdsc_bibtex.txt
-    image: ./assets/img/teaser_example_8.png
+    bibtex: ./assets/files/advml_bibtex.txt
+    image: ./assets/img/teaser_example_9.png
     presentation: https://icml.cc/virtual/2023/26109
     notes: Published 
     
