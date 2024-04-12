@@ -1,0 +1,7 @@
+@article{vhaduri2023bag,
+  title={Bag of on-phone ANNs to secure IoT objects using wearable and smartphone biometrics},
+  author={Vhaduri, Sudip and Cheung, William and Dibbo, Sayanton V},
+  journal={IEEE Transactions on Dependable and Secure Computing},
+  year={2023},
+  publisher={IEEE}
+}
