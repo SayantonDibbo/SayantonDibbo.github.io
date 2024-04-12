@@ -32,4 +32,12 @@ main:
     slide: https://csf2023.ieee-security.org/slides/Dibbo_CSF23_SoK-Model%20Inversion%20Attack%20Landscape-Taxonomy,%20Challenges,%20and%20Future%20Roadmap.pdf
     notes: Published 
  
-  
+  - title: "Model Inversion Attack with Least Information and an In-depth Analysis of its Disparate Vulnerability"
+    authors: <strong>Sayanton Dibbo</strong>, Dae Lim Chung, Shagufta Mehnaz
+    conference_short: SaTML
+    conference: IEEE Conference on Secure and Trustworthy Machine Learning   <strong>(SaTML)</strong>, 2023.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10136179
+    bibtex: ./assets/files/satml_bibtex.txt
+    image: ./assets/img/teaser_example_5.png
+    slide: https://csf2023.ieee-security.org/slides/Dibbo_CSF23_SoK-Model%20Inversion%20Attack%20Landscape-Taxonomy,%20Challenges,%20and%20Future%20Roadmap.pdf
+    notes: Published 
