@@ -41,7 +41,16 @@ main:
     image: ./assets/img/teaser_example_5.png
     presentation: https://www.youtube.com/watch?v=CrIn0we1Hvc
     notes: Published 
-
+    
+  - title: "Bag of on-phone ANNs to secure IoT objects using wearable and smartphone biometrics"
+    authors: Sudip Vhaduri, William Cheung, <strong>Sayanton Dibbo</strong>
+    conference_short: TDSC
+    conference: IEEE Transactions on Dependable and Secure Computing  <strong>(TDSC)</strong>, 2023.
+    pdf: https://ieeexplore.ieee.org/abstract/document/10106441
+    bibtex: ./assets/files/tdsc_bibtex.txt
+    image: ./assets/img/teaser_example_8.png
+    notes: Published 
+    
   - title: "Are Your Sensitive Attributes Private? Novel Model Inversion Attribute Inference Attacks on Classification Models"
     authors: Shagufta Mehnaz, <strong>Sayanton Dibbo</strong>, Ehsanul Kabir, Ninghui Li, Elisa Bertino
     conference_short: USENIX
