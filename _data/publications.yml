@@ -52,3 +52,13 @@ main:
     image: ./assets/img/teaser_example_6.png
     presentation: https://www.youtube.com/watch?v=HPV1KAvwHB0&t=3s
     notes: Published 
+
+  - title: "On-phone CNN model-based implicit authentication to secure IoT wearables"
+    authors: <strong>Sayanton Dibbo</strong>, William Cheung,  Sudip Vhaduri
+    conference_short: SaSeIoT
+    conference: The 5th International Conference on Safety and Security with IoT  <strong>(SaSeIoT)</strong>, 2022.
+    pdf: https://link.springer.com/chapter/10.1007/978-3-030-94285-4_2
+    arxiv: https://securityiot.eai-conferences.org/2021/best-community-voted-presentation/
+    bibtex: ./assets/files/saseiot_bibtex.txt
+    image: ./assets/img/teaser_example_7.png
+    notes: Best Presentation 
