@@ -47,6 +47,7 @@ main:
     conference_short: USENIX
     conference: 31st USENIX Security Symposium   <strong>(USENIX)</strong>, 2022.
     pdf: https://www.usenix.org/system/files/sec22-mehnaz.pdf
+    arxiv: https://arxiv.org/pdf/2201.09370.pdf
     bibtex: ./assets/files/usenix_bibtex.txt
     image: ./assets/img/teaser_example_6.png
     presentation: https://www.youtube.com/watch?v=HPV1KAvwHB0&t=3s
