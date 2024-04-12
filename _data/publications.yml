@@ -31,7 +31,25 @@ main:
     image: ./assets/img/teaser_example_4.png
     slide: https://csf2023.ieee-security.org/slides/Dibbo_CSF23_SoK-Model%20Inversion%20Attack%20Landscape-Taxonomy,%20Challenges,%20and%20Future%20Roadmap.pdf
     notes: Published 
- 
+  
+  - title: "How Can Neuroscience Help Us Build More Robust Deep Neural Networks?"
+    authors:  <strong>Sayanton Dibbo</strong>, Siddharth Mansingh, Jocelyn Rego, Garrett Kenyon, Juston Moore, Michael Teti
+    conference_short: AdvML
+    conference: ICML Workshop on Adversarial Machine Learning  <strong>(AdvML)</strong>, 2023.
+    pdf: https://openreview.net/pdf?id=pFf7dqBmf0
+    bibtex: ./assets/files/tdsc_bibtex.txt
+    image: ./assets/img/teaser_example_8.png
+    notes: Published 
+    
+   - title: "Bag of on-phone ANNs to secure IoT objects using wearable and smartphone biometrics"
+    authors: Sudip Vhaduri, William Cheung, <strong>Sayanton Dibbo</strong>
+    conference_short: TDSC
+    conference: IEEE Transactions on Dependable and Secure Computing  <strong>(TDSC)</strong>, 2023.
+    pdf: https://ieeexplore.ieee.org/abstract/document/10106441
+    bibtex: ./assets/files/tdsc_bibtex.txt
+    image: ./assets/img/teaser_example_8.png
+    notes: Published 
+    
   - title: "Model Inversion Attack with Least Information and an In-depth Analysis of its Disparate Vulnerability"
     authors: <strong>Sayanton Dibbo</strong>, Dae Lim Chung, Shagufta Mehnaz
     conference_short: SaTML
@@ -42,14 +60,6 @@ main:
     presentation: https://www.youtube.com/watch?v=CrIn0we1Hvc
     notes: Published 
     
-  - title: "Bag of on-phone ANNs to secure IoT objects using wearable and smartphone biometrics"
-    authors: Sudip Vhaduri, William Cheung, <strong>Sayanton Dibbo</strong>
-    conference_short: TDSC
-    conference: IEEE Transactions on Dependable and Secure Computing  <strong>(TDSC)</strong>, 2023.
-    pdf: https://ieeexplore.ieee.org/abstract/document/10106441
-    bibtex: ./assets/files/tdsc_bibtex.txt
-    image: ./assets/img/teaser_example_8.png
-    notes: Published 
     
   - title: "Are Your Sensitive Attributes Private? Novel Model Inversion Attribute Inference Attacks on Classification Models"
     authors: Shagufta Mehnaz, <strong>Sayanton Dibbo</strong>, Ehsanul Kabir, Ninghui Li, Elisa Bertino
