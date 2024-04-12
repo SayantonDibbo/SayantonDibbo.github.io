@@ -1,8 +1,0 @@
-@inproceedings{
-dibbo2023how,
-title={How Can Neuroscience Help Us Build More Robust Deep Neural Networks?},
-author={Sayanton V. Dibbo and Siddharth Mansingh and Jocelyn Rego and Garrett T. Kenyon and Juston Moore and Michael Teti},
-booktitle={The Second Workshop on New Frontiers in Adversarial Machine Learning},
-year={2023},
-url={https://openreview.net/forum?id=pFf7dqBmf0}
-}
