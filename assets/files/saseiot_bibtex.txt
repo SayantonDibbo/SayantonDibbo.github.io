@@ -1,0 +1,8 @@
+@inproceedings{dibbo2022phone,
+  title={On-phone CNN model-based implicit authentication to secure IoT wearables},
+  author={Dibbo, Sayanton V and Cheung, William and Vhaduri, Sudip},
+  booktitle={The Fifth International Conference on Safety and Security with IoT: SaSeIoT 2021},
+  pages={19--34},
+  year={2022},
+  organization={Springer}
+}
