@@ -41,3 +41,13 @@ main:
     image: ./assets/img/teaser_example_5.png
     presentation: https://www.youtube.com/watch?v=CrIn0we1Hvc
     notes: Published 
+
+  - title: "Are Your Sensitive Attributes Private? Novel Model Inversion Attribute Inference Attacks on Classification Models"
+    authors: Shagufta Mehnaz, <strong>Sayanton Dibbo</strong>, Ehsanul Kabir, Ninghui Li, Elisa Bertino
+    conference_short: USENIX
+    conference: 31st USENIX Security Symposium   <strong>(USENIX)</strong>, 2022.
+    pdf: https://www.usenix.org/system/files/sec22-mehnaz.pdf
+    bibtex: ./assets/files/usenix_bibtex.txt
+    image: ./assets/img/teaser_example_6.png
+    presentation: https://www.youtube.com/watch?v=HPV1KAvwHB0&t=3s
+    notes: Published 
