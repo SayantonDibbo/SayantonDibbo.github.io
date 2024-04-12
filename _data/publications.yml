@@ -32,8 +32,6 @@ main:
     slide: https://csf2023.ieee-security.org/slides/Dibbo_CSF23_SoK-Model%20Inversion%20Attack%20Landscape-Taxonomy,%20Challenges,%20and%20Future%20Roadmap.pdf
     notes: Published 
   
-
-    
    - title: "Bag of on-phone ANNs to secure IoT objects using wearable and smartphone biometrics"
     authors: Sudip Vhaduri, William Cheung, <strong>Sayanton Dibbo</strong>
     conference_short: TDSC
@@ -52,7 +50,6 @@ main:
     image: ./assets/img/teaser_example_5.png
     presentation: https://www.youtube.com/watch?v=CrIn0we1Hvc
     notes: Published 
-    
     
   - title: "Are Your Sensitive Attributes Private? Novel Model Inversion Attribute Inference Attacks on Classification Models"
     authors: Shagufta Mehnaz, <strong>Sayanton Dibbo</strong>, Ehsanul Kabir, Ninghui Li, Elisa Bertino
