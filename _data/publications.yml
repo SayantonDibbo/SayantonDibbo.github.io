@@ -39,5 +39,5 @@ main:
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10136179
     bibtex: ./assets/files/satml_bibtex.txt
     image: ./assets/img/teaser_example_5.png
-    slide: https://csf2023.ieee-security.org/slides/Dibbo_CSF23_SoK-Model%20Inversion%20Attack%20Landscape-Taxonomy,%20Challenges,%20and%20Future%20Roadmap.pdf
+    presentation: https://www.youtube.com/watch?v=CrIn0we1Hvc
     notes: Published 
