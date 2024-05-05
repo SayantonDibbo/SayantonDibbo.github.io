@@ -68,8 +68,7 @@
                   </div>
 
                   <div class="is-size-5 publication-authors">
-                    <span class="author-block">Institution Name<br>Conferance name and year</span>
-                    <span class="eql-cntrb"><small><br><sup>*</sup>Indicates Equal Contribution</small></span>
+                    <span class="author-block"><sup>ψ</sup>Dartmouth College<br><sup>*</sup>Los Alamos National Laboratory<br>Under Review 2024</span>
                   </div>
 
                   <div class="column has-text-centered">
