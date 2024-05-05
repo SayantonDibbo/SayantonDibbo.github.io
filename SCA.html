@@ -56,11 +56,14 @@
             <div class="is-size-5 publication-authors">
               <!-- Paper authors -->
               <span class="author-block">
-                <a href="https://sayantondibbo.github.io/" target="_blank">Sayanton Dibbo</a><sup>*</sup>,</span>
+                <a href="https://sayantondibbo.github.io/" target="_blank">Sayanton Dibbo</a></span>
                 <span class="author-block">
-                  <a href="SECOND AUTHOR PERSONAL LINK" target="_blank">Second Author</a><sup>*</sup>,</span>
+                  <a href="https://www.adambreuer.com/" target="_blank">Adam Breuer</a></span>
                   <span class="author-block">
-                    <a href="THIRD AUTHOR PERSONAL LINK" target="_blank">Third Author</a>
+                    <a href="https://scholar.google.com/citations?user=gyFa3X0AAAAJ&hl=en" target="_blank">Juston Moore</a>
+                  </span>
+              <span class="author-block">
+                    <a href="https://scholar.google.com/citations?user=cTWaSg8AAAAJ&hl=en" target="_blank">Micahel Teti</a>
                   </span>
                   </div>
 
