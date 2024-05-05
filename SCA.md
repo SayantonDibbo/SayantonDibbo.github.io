@@ -1,5 +1,5 @@
----
-title: PAGE TITLE HERE
-layout: template
-filename: NAME OF THIS SCA.md FILE HERE
---- 
+layout: page
+title: "This is SCA Project Page"
+permalink: /SCA
+
+This page contains my project on SCA.
