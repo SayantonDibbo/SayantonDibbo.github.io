@@ -170,9 +170,9 @@
       <div id="results-carousel" class="carousel results-carousel">
        <div class="item">
         <!-- Your image here -->
-        <img src="./assets/img/teaser_example_2.png" alt="MY ALT TEXT"/>
+        <img src="./assets/img/teaser_example_11.png" alt="Multi-layer Sparse Coding Network"/>
         <h2 class="subtitle has-text-centered">
-          Overview of the Proposed Sparse Coding Architecture.
+          Overview of the Proposed Sparse Coding Architecture that can show more robustness against privacy attacks.
         </h2>
       </div>
       <div class="item">
