@@ -22,15 +22,7 @@
   <!-- Keywords for your paper to be indexed by-->
   <meta name="keywords" content="KEYWORDS SHOULD BE PLACED HERE">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  h1 {
-    left: 0;
-    line-height: 200px;
-    margin-top: -100px;
-    position: absolute;
-    text-align: center;
-    top: 50%;
-    width: 100%;
-  }
+
   <h1>
   <div class="center">
   <title>Improving Robustness to Model Inversion Attacks via Sparse Coding Architectures</title>
