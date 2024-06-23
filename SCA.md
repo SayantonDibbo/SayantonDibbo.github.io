@@ -136,9 +136,9 @@
         <source src="static/videos/banner_video.mp4"
         type="video/mp4">
       </video>
-      <h2 class="subtitle has-text-centered">
+      <h3 class="subtitle has-text-centered">
         The first study of neural network architectures that are robust to model inversion (MI) attacks, where a novel sparse coding-based architecture, SCA, is developed that outperforms state-of-the-art defenses against MI attacks.
-      </h2>
+      </h3>
     </div>
   </div>
 </section>
