@@ -184,9 +184,9 @@
       </div>
       <div class="item">
         <!-- Your image here -->
-        <img src="static/images/carousel3.jpg" alt="MY ALT TEXT"/>
+        <img src="./assets/img/teaser_example_10.png" alt="SCA Performance on Medical MNIST Dataset"/>
         <h2 class="subtitle has-text-centered">
-         Third image description.
+          Qualitative Comparisons Medical MNIST Dataset among Original vs. Reconstructed Images in SOTA Defenses and our Proposed SCA.
        </h2>
      </div>
      <div class="item">
