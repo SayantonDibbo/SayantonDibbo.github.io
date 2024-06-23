@@ -172,7 +172,7 @@
         <!-- Your image here -->
         <img src="static/images/carousel1.jpg" alt="MY ALT TEXT"/>
         <h2 class="subtitle has-text-centered">
-          First image description.
+          Overview of the Proposed Sparse Coding Architecture.
         </h2>
       </div>
       <div class="item">
