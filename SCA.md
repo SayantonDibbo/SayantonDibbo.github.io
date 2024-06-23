@@ -177,9 +177,9 @@
       </div>
       <div class="item">
         <!-- Your image here -->
-        <img src="static/images/carousel2.jpg" alt="MY ALT TEXT"/>
+        <img src="./assets/img/teaser_example_2.png" alt="SCA Performance on CelebA Dataset"/>
         <h2 class="subtitle has-text-centered">
-          Second image description.
+          Qualitative Comparisons in CelebA Dataset among Original vs. Reconstructed Images in SOTA Defenses and our Proposed SCA.
         </h2>
       </div>
       <div class="item">
