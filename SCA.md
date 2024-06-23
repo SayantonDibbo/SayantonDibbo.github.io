@@ -189,13 +189,7 @@
           Qualitative Comparisons Medical MNIST Dataset among Original vs. Reconstructed Images in SOTA Defenses and our Proposed SCA.
        </h2>
      </div>
-     <div class="item">
-      <!-- Your image here -->
-      <img src="static/images/carousel4.jpg" alt="MY ALT TEXT"/>
-      <h2 class="subtitle has-text-centered">
-        Fourth image description.
-      </h2>
-    </div>
+     
   </div>
 </div>
 </div>
