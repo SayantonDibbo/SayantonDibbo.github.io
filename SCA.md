@@ -280,7 +280,12 @@
   <section class="section" id="BibTeX">
     <div class="container is-max-desktop content">
       <h2 class="title">BibTeX</h2>
-      <pre><code>BibTex Code Here</code></pre>
+      <pre><code>@article{dibbo2024improving,
+  title={Improving Robustness to Model Inversion Attacks via Sparse Coding Architectures},
+  author={Dibbo, Sayanton V and Breuer, Adam and Moore, Juston and Teti, Michael},
+  journal={arXiv preprint arXiv:2403.14772},
+  year={2024}
+}</code></pre>
     </div>
 </section>
 <!--End BibTex citation -->
