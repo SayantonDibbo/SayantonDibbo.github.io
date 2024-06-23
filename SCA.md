@@ -189,7 +189,14 @@
           Qualitative Comparisons Medical MNIST Dataset among Original vs. Reconstructed Images in SOTA Defenses and our Proposed SCA.
        </h2>
      </div>
-     
+     <div class="item">
+        <!-- Your image here -->
+        <img src="./assets/img/teaser_example_12.png" alt="UMap Representations Comparisons"/>
+        <h2 class="subtitle has-text-centered">
+          UMap 2D projections of input images’ features by class after 2 linear layers, 2
+conv. layers, or 2 sparse-coded layers on MNIST (top) & Fashion MNIST (bottom).
+       </h2>
+     </div>
   </div>
 </div>
 </div>
