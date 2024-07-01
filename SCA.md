@@ -202,7 +202,24 @@ conv. layers, or 2 sparse-coded layers on MNIST (top) & Fashion MNIST (bottom).
 
 
 
-
+<!-- Survey -->
+<section class="section hero is-light">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Abstract</h2>
+        <div class="content has-text-justified">
+          
+          <p>
+Interested? Please Complete the Following Brief Survey for additional Info or Resources for this Project
+            <a href="https://forms.gle/Xf3VJMhf1CnGHVMW7" target="_blank"
+                  class="external-link button is-normal is-rounded is-dark">
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End survey -->
 
 
 
