@@ -58,7 +58,7 @@
             <div class="is-size-5 publication-authors">
               <!-- Paper authors -->
               <span class="author-block">
-                <a href="https://sayantondibbo.github.io/" target="_blank">Sayanton Dibbo</a><sup>ψ</sup>,</span>
+                <a href="https://sayantondibbo.github.io/" target="_blank">Sayanton Dibbo</a><sup>ψ, *</sup>,</span>
                 <span class="author-block">
                   <a href="https://www.adambreuer.com/" target="_blank">Adam Breuer</a><sup>ψ</sup>,</span>
                   <span class="author-block">
