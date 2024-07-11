@@ -20,7 +20,7 @@ In my free time, I love to travel to new places.
 
 ## News
 
-- **[Jul. 2024]** Our Paper on Improving Robustness against Privacy Attacks is accepted @ECCV 2024.
+- **[Jul. 2024]** Our Paper on Improving Robustness against Privacy Attacks is accepted @ECCV'24.
 - **[Mar. 2024]** Received Dartmouth Graduate Student Council Travel Grant for ICASSP 2024.
 - **[Feb. 2024]** Our Paper on Audio Robustness is accepted @ICASSP 2024 Workshop.
 - **[Jan. 2024]** Awarded Cybersecurity Cluster Research Fellow.
