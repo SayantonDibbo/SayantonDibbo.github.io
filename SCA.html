@@ -88,7 +88,7 @@
 
                     <!-- Supplementary PDF link -->
                     <span class="link-block">
-                      <a href="https://arxiv.org/pdf/2403.14772.pdf" target="_blank"
+                      <a href="./assets/files/ECCV_Supplementary.pdf" target="_blank"
                       class="external-link button is-normal is-rounded is-dark">
                       <span class="icon">
                         <i class="fas fa-file-pdf"></i>
