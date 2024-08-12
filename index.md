@@ -4,8 +4,9 @@ layout: homepage
 
 ## About Me
 
-I'm Sayanton Dibbo, a Ph.D. Candidate and Cybersecurity Cluster Research fellow in the CS @ <a href="https://web.cs.dartmouth.edu/">Dartmouth College</a> , advised by Dr. <a href="https://www.adambreuer.com/">Adam Breuer</a>. Before joining Dartmouth, I received my MS in CS from the <a href="https://www1.cs.ucr.edu//">University of California, Riverside</a>. 
-My research interests span the areas of Secure and Trustworthy Deep Learning.  I'm exploring the security and privacy aspects of the data involved in Deep learning and traditional ML modeling. I'm interested in exploring more aspects of security and privacy in other data domains, including image, audio, and text, as well as in federated learning scenarios.
+I'm Sayanton Dibbo, a Ph.D. Candidate and Cybersecurity Cluster Research fellow in the CS @ <a href="https://web.cs.dartmouth.edu/">Dartmouth College</a> , advised by Dr. <a href="https://www.adambreuer.com/">Adam Breuer</a>. Before joining Dartmouth, I received my MS in CS from the <a href="https://www1.cs.ucr.edu/">University of California, Riverside</a>. 
+My research interests span the areas of Deep Learning and Secure and Trustworthy AI/ML modeling.  I'm exploring the security and privacy aspects of the data involved in traditional ML as well as Foundational models, including Multimodal modeling. I'm interested in exploring more aspects of security and privacy in other data domains, including image, audio, and text, as well as in federated learning scenarios.
+
 In my free time, I love to travel to new places.
 
 
