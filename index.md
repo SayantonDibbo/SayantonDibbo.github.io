@@ -12,11 +12,12 @@ In my free time, I love to travel to new places.
 
 ## Research Interests
 
-- **Security/Privacy:** Adversarial and Privacy Attacks/Defenses
 - **Machine Learning:** Trustworthy AI/ML Modeling
+- **Security/Privacy:** Adversarial and Privacy Attacks/Defenses
 - **Computer Vision:** Improving Computer Vision Model Robustness
 - **LLMs and Multimodal Modeling:** Robustness, Bias, Memorization, and Fairness of LLMs & Multimodal Models
 - **Authentication:** Biometric-based user authentication
+
 
 
 ## News
