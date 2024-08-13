@@ -64,7 +64,7 @@ main:
   - title: "Are Your Sensitive Attributes Private? Novel Model Inversion Attribute Inference Attacks on Classification Models"
     authors: Shagufta Mehnaz, <strong>Sayanton Dibbo</strong>, Ehsanul Kabir, Ninghui Li, Elisa Bertino
     conference_short: USENIX
-    conference: 31st USENIX Security Symposium   <strong>(USENIX)</strong>, 2022.
+    conference: 31st USENIX Security Symposium   <strong>(USENIX Security)</strong>, 2022.
     pdf: https://www.usenix.org/system/files/sec22-mehnaz.pdf
     arxiv: https://arxiv.org/pdf/2201.09370.pdf
     bibtex: ./assets/files/usenix_bibtex.txt
