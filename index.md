@@ -18,7 +18,16 @@ In my free time, I love to travel to new places.
 - **LLMs and Multimodal Modeling:** Robustness, Bias, Memorization, and Fairness of LLMs & Multimodal Models
 - **Authentication:** Biometric-based user authentication
 
+## Education
+- **PhD in CS** Dartmouth College (2020-2025)
+- **MS in CS** University of California, Riverside (2017-2019)
 
+## Appointments
+- **Graduate Research Intern (LLM & Multimodal Modeling)** Los Alamos National Lab (Summer 2024)
+- **Graduate Research Intern (AI Assurance & Cybersecurity)** Los Alamos National Lab (Summer 2023)
+- **Graduate Research Intern (AI/ML & Cybersecurity)** Financial Industry Regulatory Authority (Summer 2022)
+- **Graduate Research & Teaching Assistant & Cybersecurity Cluster Research Fellow** Dartmouth College (2020-2025)
+- **Research Intern** Dartmouth College (Fal 2019-Summer 2020)
 
 ## News
 
