@@ -31,7 +31,7 @@ In my free time, I love to travel to new places.
 
 ## News
 
-- **[Aug. 2024]** My Dissertation Research accepted @ECCV'24 Doctorial Consortium.
+- **[Aug. 2024]** Accepted Dissertation @ACM CCS'24 and @ECCV'24 Doctorial Consortiums.
 - **[Jul. 2024]** Our Paper on Improving Robustness against Privacy Attacks is accepted @ECCV'24.
 - **[Jul. 2024]** Serve as Reviewer of Women in Computer Vision (WiCV) @ECCV'24.
 - **[Mar. 2024]** Received Dartmouth Graduate Student Council Travel Grant for ICASSP 2024.
