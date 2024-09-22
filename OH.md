@@ -55,7 +55,9 @@
       <div class="container is-max-desktop">
         <div class="columns is-centered">
           <div class="column has-text-centered">
-            <h1 class="title is-1 publication-title">Improving Robustness to Model Inversion Attacks via Sparse Coding Architectures</h1>
+<h1 class="title is-1 publication-title">CS 51 TA Office Hours: Sayanton Dibbo</h1>
+            <h2 class="title is-1 publication-title">Extended Office Hour on Monday 23rd September 3-5 pm @ ECSC 127</h2>
+            <h2 class="title is-1 publication-title">No Office Hour on Friday 27th September</h2>
             
 
   </body>
