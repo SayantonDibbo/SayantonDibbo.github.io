@@ -58,6 +58,11 @@
 
 
             <h1 class="title is-1 publication-title"><u>CS 51 TA Office Hours Fall 2024: Sayanton Dibbo</u></h1>
+
+             <h2 class="title is-1 publication-title"> Office Hour on Friday Nov 8th 4-5 pm @ Zoom Link Below</h2>
+
+            <p><a href="https://dartmouth.zoom.us/j/99779817916?pwd=cfrIC2EGjE4ZnpgBvaCvrz5La74VCB.1
+">Office Hour Link</a></p>
                                     <h2 class="title is-1 publication-title"> Office Hour on Monday Nov 4th will be from 3 pm to 4 pm @ ECSC 106</h2>
 
 <h2 class="title is-1 publication-title"> Office Hour on Friday Oct 25th will be from 2:30 pm to 3:30 pm @ ECSC 127</h2>
