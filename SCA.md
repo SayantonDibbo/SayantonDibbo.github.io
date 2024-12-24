@@ -163,11 +163,13 @@ Recent model inversion attack algorithms permit adversaries to reconstruct a neu
   <section class="section" id="BibTeX">
     <div class="container is-max-desktop content">
       <h2 class="title">BibTeX</h2>
-      <pre><code>@inproceedings{dibbo2024improving,
-  title={Improving Robustness to Model Inversion Attacks via Sparse Coding Architectures},
+      <pre><code>@inproceedings{dibbo2025improving,
+  title={Improving robustness to model inversion attacks via sparse coding architectures},
   author={Dibbo, Sayanton V and Breuer, Adam and Moore, Juston and Teti, Michael},
-  booktitle={European Conference on Computer Vision (ECCV)},
-  year={2024}
+  booktitle={European Conference on Computer Vision},
+  pages={117--136},
+  year={2025},
+  organization={Springer}
 }</code></pre>
     </div>
 </section>
