@@ -1,6 +1,8 @@
-@article{dibbo2023lcanets++,
-  title={LCANets++: Robust Audio Classification using Multi-layer Neural Networks with Lateral Competition},
+@inproceedings{dibbo2024lcanets++,
+  title={Lcanets++: Robust audio classification using multi-layer neural networks with lateral competition},
   author={Dibbo, Sayanton V and Moore, Juston S and Kenyon, Garrett T and Teti, Michael A},
-  journal={arXiv preprint arXiv:2308.12882},
-  year={2023}
-}
+  booktitle={2024 IEEE International Conference on Acoustics, Speech, and Signal Processing Workshops (ICASSPW)},
+  pages={129--133},
+  year={2024},
+  organization={IEEE}
+}
