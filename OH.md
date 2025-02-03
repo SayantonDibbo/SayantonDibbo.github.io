@@ -59,7 +59,7 @@
 
             <h1 class="title is-1 publication-title"><u>CS 61 TA Office Hours Winter 2025: Sayanton Dibbo</u></h1>
 
-         <h2 class="title is-1 publication-title"><u>Office Hour on Monday, Feb 03, 2025, is Rescheduled to Tuesday, Feb 04, 2025, 2-3 PM @ECSC 007</u></h2>
+         <h2 class="title is-1 publication-title"><u>Office Hour on Monday, Feb 03, 2025, is <mark>Rescheduled to Tuesday, Feb 04, 2025, 2-3 PM @ECSC 007 </mark></u></h2>
 
             <h3 class="title is-1 publication-title"><u>Office Hour on Monday, Jan 27, 2025, is 10:30-11:30 AM @ECSC 133</u></h3>
                         
