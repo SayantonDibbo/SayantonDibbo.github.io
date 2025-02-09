@@ -61,7 +61,7 @@
 <h2 class="title is-1 publication-title"><u> <mark>Office Hour on Monday, Feb 10, 2025 is on the following Zoom link </mark> </u></h2>
 <a href="https://dartmouth.zoom.us/j/3314359771?omn=93073686832">CS61: OH</a>
 
-<h3 class="title is-1 publication-title"><u> <mark>Office Hour on Friday, Feb 07, 2025, is 10:30-11:30 AM @ECSC 007 </mark></u></h3>
+<h3 class="title is-1 publication-title"><u> Office Hour on Friday, Feb 07, 2025, is 10:30-11:30 AM @ECSC 007 </u></h3>
 
             <h3 class="title is-1 publication-title"><u>Office Hour on Monday, Jan 27, 2025, is 10:30-11:30 AM @ECSC 133</u></h3>
                         
