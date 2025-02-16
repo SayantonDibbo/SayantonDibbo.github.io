@@ -9,7 +9,8 @@ My research interests span the areas of Deep Learning, Computer Vision, and Secu
 
 In my free time, I love to travel to new places.
 
-<p style="color:red">I will be joining as an Assistant Professor in CS at the <a href="https://www.ua.edu/">University of Alabama</a>  in the Fall of 2025. You are welcome to email me (<a href="sdibbo@ua.edu">sdibbo@ua.edu</a>) with the subject line "Prospective AI/ML/Cyber Student" along with your CV, Transcript, and GRE scores if you want to work with me. </p>
+<p style="color:red">I will join as an Assistant Professor in CS at the <a href="https://www.ua.edu/">University of Alabama</a>  in Fall 2025. You are welcome to email me (<a href="sdibbo@ua.edu">sdibbo@ua.edu</a>) with the subject line "Prospective AI/ML/Cyber Student" along with your CV, Transcript, and GRE scores if you want to work with me. </p>
+
 
 
 ## Research Interests
