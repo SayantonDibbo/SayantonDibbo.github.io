@@ -55,7 +55,7 @@
       <div class="container is-max-desktop">
         <div class="columns is-centered">
           <div class="column has-text-centered">
-          <h2 class="title is-1 publication-title"><u> <mark>Office Hour on Monday, Feb 16, 2025, is on the following Zoom link  @ 3-4 pm </mark> </u></h2>
+          <h2 class="title is-1 publication-title"><u> <mark>Office Hour on Friday, Feb 21, 2025, is on the following Zoom link  @ 4-5 pm </mark> </u></h2>
             <a href="https://dartmouth.zoom.us/j/3314359771?omn=93073686832">CS61: OH</a>
 <h2 class="title is-1 publication-title"><u> No Office Hour on Friday, Feb 14, 2025 </u></h2>
 
