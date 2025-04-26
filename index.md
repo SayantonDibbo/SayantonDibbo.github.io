@@ -8,7 +8,6 @@ I am Sayanton Dibbo, an incoming Assistant Professor in the CS department at the
 
 My research interests span the areas of Deep Learning, Computer Vision, and Secure & Trustworthy AI/ML modeling.  I'm exploring (1) analyzing data-driven AI/ML systems, including foundation models  (e.g., LLMs and Multimodal systems), and (2) focusing on security and privacy aspects of the data involved in traditional ML as well as foundational models to investigate attacks (adversarial and privacy) and develop novel defense techniques to enhance robustness. My research spans various data modalities, including images, tabular, audio, and text data.
 
-My research interests span the areas of Deep Learning, Computer Vision, and Secure & Trustworthy AI/ML modeling.  I'm exploring (1) analyzing data-driven AI/ML systems, including foundation models  (e.g., LLMs and Multimodal systems), and (2) focusing on security and privacy aspects of the data involved in traditional ML as well as foundational models to investigate attacks (adversarial and privacy) and develop novel defense techniques to enhance robustness. My research spreads over various data modalities, including images, tabular, audio, and text data.
 
 In my free time, I love to travel to new places.
 
