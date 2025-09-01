@@ -13,9 +13,9 @@ My research interests span the areas of Deep Learning, Computer Vision, and Secu
 
 In my free time, I love to travel to new places.
 
-<p style="color:red">I am looking for highly motivated students (undergraduate and graduate) to work with me at the <a href="https://www.ua.edu/">University of Alabama</a>, †rustworthy AI Lab. You are welcome to fill out this form and email me (<a href="sdibbo@ua.edu">sdibbo@ua.edu</a>) with the subject line "Prospective AI/ML/Cyber Student" along with your CV/Resume, Transcript, and GRE scores (if available) if you are interested in working with me. </p>
+<p style="color:red">I am looking for highly motivated students (undergraduate and graduate) to work with me at the <a href="https://www.ua.edu/">University of Alabama</a>, trustworthy AI Lab. If interested, you are welcome to fill out this form and email me (<a href="sdibbo@ua.edu">sdibbo@ua.edu</a>) with the subject line "Prospective AI/ML/Cyber Student" along with your CV/Resume, Transcript, and GRE scores (if available). </p>
 
-Please find the list of ongoing projects in my team  <a href="https://eng.ua.edu/departments/computer-science/">University of Alabama</a>
+Please find the list of ongoing projects my team is working on: <a href="https://github.com/SayantonDibbo/SayantonDibbo.github.io/blob/main/assets/files/TrustAI-Projects.pdf">project description</a>
 
 
 
