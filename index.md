@@ -49,7 +49,7 @@ Please find the list of ongoing projects my team is working on: <a href="./asset
 - **Research Intern** Dartmouth College (Fall 2019-Summer 2020)
 
 ## News
-
+- **[Aug. 2025]** Accepted Invitation to serve USENIX Security and ACM CCS PC 2026.
 - **[Jan. 2025]** Accepted Tenure Track Assistant Prof. @University of Alabama CS starting Fall 2025.
 - **[Aug. 2024]** Accepted Dissertation @ACM CCS'24 and @ECCV'24 Doctorial Consortiums.
 - **[Jul. 2024]** Our Paper on Improving Robustness against Privacy Attacks is accepted @ECCV'24.
