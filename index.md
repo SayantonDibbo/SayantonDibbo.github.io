@@ -11,7 +11,7 @@ I am an Assistant Professor in the CS department at the <a href="https://eng.ua.
   <p style="color:red">Looking for highly motivated students (see below)  </p>
 </marquee>
 <marquee behavior="scroll" direction="left" scrollamount="5">
-  <p style="color:blue">Accepted Invitation to serve USENIX Security and ACM CCS PC 2026 </p>
+  <p style="color:blue">Received Google Cloud Research Credit Award for Trustworthy AI Research!! </p>
 </marquee>
 
 
