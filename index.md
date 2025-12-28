@@ -1,6 +1,9 @@
 ---
 layout: homepage
 ---
+<form>
+  <button formaction="assets/files/resume_Sdibbo.pdf">CV</button>
+</form>
 <a href="assets/files/resume_Sdibbo.pdf" class="button">CV</a>
 <a href="https://sayantondibbo.github.io/" class="button">Research</a>
 <a href="https://sayantondibbo.github.io/" class="button">Teaching</a>
