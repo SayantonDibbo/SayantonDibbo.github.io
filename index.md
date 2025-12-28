@@ -2,6 +2,10 @@
 layout: homepage
 ---
 <a href="assets/files/resume_Sdibbo.pdf" class="button">CV</a>
+<a href="https://sayantondibbo.github.io/" class="button">Research</a>
+<a href="https://sayantondibbo.github.io/" class="button">Teaching</a>
+<a href="https://sayantondibbo.github.io/" class="button">Grants</a>
+
 
 ## About Me
 
@@ -39,8 +43,8 @@ Please find the list of ongoing projects my team is working on: <a href="./asset
 - **Authentication:** Biometric-based user authentication
 
 ## Education
-- **PhD in CS** Dartmouth College (2020-2025)
-- **MS in CS** University of California, Riverside (2017-2019)
+- **PhD in CS** Dartmouth College (2025)
+- **MS in CS** University of California, Riverside (2019)
 
 ## Appointments
 - **Graduate Research Intern (LLM & Multimodal Modeling)** Los Alamos National Lab (Summer 2024)
