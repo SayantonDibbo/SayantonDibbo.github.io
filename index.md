@@ -2,20 +2,12 @@
 layout: homepage
 ---
 <div style="width:500px;">
-
-<form>
-  <button formaction="assets/files/resume_Sdibbo.pdf">CV</button>
-</form>
-
-<form>
-  <button formaction="https://sayantondibbo.github.io/">Research</button>
-</form>
-<form>
-  <button formaction="https://sayantondibbo.github.io/">Teaching</button>
-</form>
-<form>
-  <button formaction="https://sayantondibbo.github.io/">Grants</button>
-</form>
+  <form style="display:flex; gap:10px;">
+    <button formaction="assets/files/resume_Sdibbo.pdf">CV</button>
+    <button formaction="https://sayantondibbo.github.io/">Research</button>
+    <button formaction="https://sayantondibbo.github.io/">Teaching</button>
+    <button formaction="https://sayantondibbo.github.io/">Grants</button>
+  </form>
 </div>
 
 
