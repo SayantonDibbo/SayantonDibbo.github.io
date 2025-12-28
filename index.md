@@ -4,10 +4,17 @@ layout: homepage
 <form>
   <button formaction="assets/files/resume_Sdibbo.pdf">CV</button>
 </form>
-<a href="assets/files/resume_Sdibbo.pdf" class="button">CV</a>
-<a href="https://sayantondibbo.github.io/" class="button">Research</a>
-<a href="https://sayantondibbo.github.io/" class="button">Teaching</a>
-<a href="https://sayantondibbo.github.io/" class="button">Grants</a>
+
+<form>
+  <button formaction="https://sayantondibbo.github.io/">Research</button>
+</form>
+<form>
+  <button formaction="https://sayantondibbo.github.io/">Teaching</button>
+</form>
+<form>
+  <button formaction="https://sayantondibbo.github.io/">Grants</button>
+</form>
+
 
 
 ## About Me
