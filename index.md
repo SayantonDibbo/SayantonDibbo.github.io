@@ -1,7 +1,7 @@
 ---
 layout: homepage
 ---
-<a href="https://example.com" class="button">CV</a>
+<a href="assets/files/resume_Sdibbo.pdf" class="button">CV</a>
 
 ## About Me
 
