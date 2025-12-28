@@ -1,14 +1,38 @@
 ---
 layout: homepage
 ---
-<div style="width:500px;">
-  <form style="display:flex; gap:10px;">
-    <button formaction="assets/files/resume_Sdibbo.pdf">CV</button>
-    <button formaction="https://sayantondibbo.github.io/">Research</button>
-    <button formaction="https://sayantondibbo.github.io/">Teaching</button>
-    <button formaction="https://sayantondibbo.github.io/">Grants</button>
-  </form>
+<style>
+  .nav-buttons {
+    display: flex;
+    gap: 12px;
+    margin-bottom: 15px;
+  }
+
+  .nav-buttons a {
+    text-decoration: none;
+    padding: 8px 16px;
+    border: 2px solid #003366;
+    border-radius: 6px;
+    color: #003366;
+    font-weight: 600;
+    transition: all 0.25s ease;
+  }
+
+  .nav-buttons a:hover {
+    background-color: #003366;
+    color: white;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+  }
+</style>
+
+<div class="nav-buttons">
+  <a href="assets/files/resume_Sdibbo.pdf">CV</a>
+  <a href="https://sayantondibbo.github.io/">Research</a>
+  <a href="https://sayantondibbo.github.io/">Teaching</a>
+  <a href="https://sayantondibbo.github.io/">Grants</a>
 </div>
+
 
 ## About Me
 
