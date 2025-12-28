@@ -1,6 +1,8 @@
 ---
 layout: homepage
 ---
+<div style="width:500px;">
+
 <form>
   <button formaction="assets/files/resume_Sdibbo.pdf">CV</button>
 </form>
@@ -14,7 +16,7 @@ layout: homepage
 <form>
   <button formaction="https://sayantondibbo.github.io/">Grants</button>
 </form>
-
+</div>
 
 
 ## About Me
