@@ -1,9 +1,8 @@
 ---
 layout: homepage
 ---
-<button type="button" id="myButton">Click Me!</button>
-<!-- You can also use anchor tags for simple links -->
-<a href="https://example.com" class="button">Go to Example</a>
+<a href="https://example.com" class="button">CV</a>
+
 ## About Me
 
 I am an Assistant Professor in the CS department at the <a href="https://eng.ua.edu/departments/computer-science/">University of Alabama</a> and a faculty affiliate of  <a href="https://ai.eng.ua.edu/"> Alabama Center for the Advancement of AI
