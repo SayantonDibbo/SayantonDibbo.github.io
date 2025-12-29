@@ -1,0 +1,9 @@
+@misc{amebley2025neuroinspiredmultimodalvisionlanguagemodels,
+      title={Are Neuro-Inspired Multi-Modal Vision-Language Models Resilient to Membership Inference Privacy Leakage?}, 
+      author={David Amebley and Sayanton Dibbo},
+      year={2025},
+      eprint={2511.20710},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2511.20710}, 
+}
