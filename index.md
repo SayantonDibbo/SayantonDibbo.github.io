@@ -74,6 +74,8 @@ Please find the list of ongoing projects my team is working on: <a href="./asset
 - **MS in CS** University of California, Riverside (2019)
 
 ## Appointments
+- **Assistant Professor, Computer Science, The University of Alabama (Fall 2025)
+- **Hewson Faculty Fellow, Styslinger College of Engineering, The University of Alabama (Fall 2025)
 - **Graduate Research Intern (LLM & Multimodal Modeling)** Los Alamos National Lab (Summer 2024)
 - **Graduate Research Intern (AI Assurance & Cybersecurity)** Los Alamos National Lab (Summer 2023)
 - **Graduate Research Intern (AI/ML & Cybersecurity)** Financial Industry Regulatory Authority (Summer 2022)
