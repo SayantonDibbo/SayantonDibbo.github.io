@@ -6,7 +6,7 @@ main:
     pdf: ./assets/files/arxiv-vlm25.pdf
     arxiv: https://arxiv.org/abs/2511.20710
     bibtex: ./assets/files/SCA_2024_bibtex.txt
-    image: ./assets/img/teaser_example_4.png
+    image: ./assets/img/teaser_example_10.png
     notes: Under Review
     
   - title: Improving Robustness to Model Inversion Attacks via Sparse Coding Architectures
