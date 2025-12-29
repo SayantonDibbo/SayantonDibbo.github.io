@@ -1,7 +1,7 @@
 main:
   - title: Are Neuro-Inspired Multi-Modal Vision-Language Models Resilient to Membership Inference Privacy Leakage?
     authors:  David Amebley, <strong>Sayanton Dibbo</strong>,
-    conference_short: Arxiv
+    conference_short: Pre-print
     conference: USENIX WOOT Conference<strong>(USENIX WOOT)</strong>, 2026.
     pdf: ./assets/files/arxiv-vlm25.pdf
     arxiv: https://arxiv.org/abs/2511.20710
