@@ -1,2 +1,2 @@
-{% _includes/publications.md %}
+{% include '_includes/publications.md' %}
 
