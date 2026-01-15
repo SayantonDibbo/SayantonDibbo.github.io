@@ -28,7 +28,7 @@ layout: homepage
 
 <div class="nav-buttons">
   <a href="assets/files/resume_Sdibbo.pdf">CV</a>
-  <a href="https://sayantondibbo.github.io/">Research</a>
+  <a href="research.html">Research</a>
   <a href="https://sayantondibbo.github.io/">Teaching</a>
   <a href="https://sayantondibbo.github.io/">Grants</a>
 </div>
