@@ -97,17 +97,16 @@ title: Research | Sayanton Dibbo
 <h2 class="section-title">Selected Publications</h2>
 
 <div class="paper-card">
-  <span class="paper-title">Improving Robustness against Privacy Attacks in Computer Vision</span>
-    <img src="./assets/img/teaser_example_2.png" alt="Paper teaser" class="paper-img">
-
+  <span class="paper-title">Improving Robustness to Model Inversion Attacks via Sparse Coding Architectures</span>
+  <img src="./assets/img/teaser_example_2.png" alt="Paper teaser" class="paper-img">
   <div class="author-list">
-    John Doe, <span class="me">Sayanton Dibbo</span>, Jane Smith
+     <span class="me">Sayanton Dibbo</span>, Adam Breuer, Juston Moore, Michael Teti
   </div>
-  <span class="venue">European Conference on Computer Vision (ECCV), 2024</span>
+  <span class="venue">The 18th European Conference on Computer Vision (ECCV), 2024</span>
   <div class="paper-links">
     <a href="./assets/files/SCA_2024.pdf" class="btn-sm">PDF</a>
-    <a href="#" class="btn-sm">Code</a>
-    <a href="#" class="btn-sm">BibTeX</a>
+    <a href="https://sayantondibbo.github.io/SCA" class="btn-sm">Code</a>
+    <a href="./assets/files/SCA_2024_bibtex.txt" class="btn-sm">BibTeX</a>
   </div>
 </div>
 
