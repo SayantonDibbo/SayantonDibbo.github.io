@@ -83,14 +83,14 @@ title: Research | Sayanton Dibbo
 
 <h2 class="section-title">Research Overview</h2>
 <p>
-  My research focuses on the intersection of <strong>Deep Learning, Computer Vision, and Trustworthy AI</strong>. 
+  My research focuses on the intersection of <strong>AI/ML (Generative AI, Computer Vision, LLM, Audio Modeling), and Trustworthy AI</strong>. 
   The TAI Lab at UA investigates how to make foundational models (LLMs and Multimodal systems) more robust 
   against adversarial and privacy attacks.
 </p>
 
 <div style="background: #f0f7ff; padding: 20px; border-radius: 8px; border: 1px solid #003366;">
-  <strong>Current Focus:</strong> We are currently developing novel defense techniques to enhance 
-  the robustness of biometric authentication and large-scale vision transformers.
+  <strong>Current Focus:</strong> We are currently analyzing vulnerabilities of foundational models and developing novel defense techniques to enhance  the robustness of 
+  foundational models under different privacy and adversarial attacks.
   <br><a href="./assets/files/TrustAI-Projects.pdf" style="color:#003366; font-weight:bold;">View Project Descriptions →</a>
 </div>
 
