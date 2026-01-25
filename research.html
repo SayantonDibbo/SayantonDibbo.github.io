@@ -103,7 +103,7 @@ title: Research | Sayanton Dibbo
   </div>
   <span class="venue">European Conference on Computer Vision (ECCV), 2024</span>
   <div class="paper-links">
-    <a href="#" class="btn-sm">PDF</a>
+    <a href="./assets/files/SCA_2024.pdf" class="btn-sm">PDF</a>
     <a href="#" class="btn-sm">Code</a>
     <a href="#" class="btn-sm">BibTeX</a>
   </div>
