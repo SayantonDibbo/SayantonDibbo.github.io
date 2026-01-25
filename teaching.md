@@ -23,12 +23,24 @@ title: Teaching | Sayanton Dibbo
 
 ## University of Alabama
 <div class="teaching-item">
-  <div class="course-name">CS 4XX/5XX: Trustworthy Machine Learning</div>
-  <div class="course-details">Instructor | Fall 2025 (Planned)</div>
+  <div class="course-name">CS 423/523: Python for Big Data</div>
+  <div class="course-details">Instructor | Fall 2026 </div>
+  <p>Covering Big Data Analysis, Python Libraries, and Visualizing Big Data.</p>
+</div>
+
+<div class="teaching-item">
+  <div class="course-name">CS 691: Security and Privacy of ML</div>
+  <div class="course-details">Instructor | Spring 2026 </div>
   <p>Covering adversarial robustness, privacy-preserving ML, and security of foundation models.</p>
 </div>
 
-## Prior Teaching Experience
+<div class="teaching-item">
+  <div class="course-name">CS 692: Mentored Research Experience</div>
+  <div class="course-details">Instructor | Fall 25, Spring 26 </div>
+  <p>Mentored graduate student in AI/ML and Security/Privacy Research.</p>
+</div>
+
+## Prior Teaching Experience (Dartmouth College)
 <div class="teaching-item">
   <div class="course-name">CS 01: Introduction to Computer Science</div>
   <div class="course-details">Graduate Teaching Assistant | Dartmouth College</div>
