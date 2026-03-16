@@ -83,6 +83,7 @@ Please find the list of ongoing projects my team is working on: <a href="./asset
 - **Research Intern** Dartmouth College (Fall 2019-Summer 2020)
 
 ## News
+- **[Mar 2025]** <strong>NVIDIA Academic Grant </strong> Awarded to TAI Lab. Thank you, NVIDIA!!
 - **[Dec. 2025]** <strong>Google Cloud Research Credit</strong> Awarded to TAI Lab. Thank you, Google!!
 - **[Nov. 2025]** Awarded Hewson Faculty Fellow, Styslinger College of Engineering at UA.
 - **[Aug. 2025]** Accepted Invitation to serve USENIX Security and ACM CCS PC 2026.
