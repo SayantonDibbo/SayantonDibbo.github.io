@@ -22,7 +22,7 @@ title: Grants & Awards | Sayanton Dibbo
   .grant-date { float: right; color: #666; font-size: 0.9rem; font-weight: 400; }
   .grant-desc { margin-top: 10px; font-size: 0.95rem; color: #0A0A0A; line-height: 1.5; }
   
-  .section-header { border-bottom: 2px solid #003366; padding-bottom: 5px; margin-top: 40px; color: #ADD8E6; }
+  .section-header { border-bottom: 2px solid #003366; padding-bottom: 5px; margin-top: 40px; color: #FFB6C1; }
 </style>
 
 <div class="nav-buttons">
