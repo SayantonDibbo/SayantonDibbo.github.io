@@ -37,7 +37,7 @@ title: Grants & Awards | Sayanton Dibbo
 <div class="grant-card">
   <div class="grant-title">Google Cloud Research Credit Award <span class="grant-date">2025 - 2026</span></div>
   <div class="grant-org">Google</div>
-  <div class="grant-desc">Funding for computational resources to support research in <strong>Trustworthy AI and Foundation Model Robustness</strong> at the University of Alabama.</div>
+  <div class="grant-desc">Funding for computational resources to support research in Trustworthy AI and Foundation Model Robustness at the University of Alabama.</div>
 </div>
 
 <h2 class="section-header">Faculty Fellowships</h2>
