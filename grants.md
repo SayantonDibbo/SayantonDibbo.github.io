@@ -71,3 +71,34 @@ title: Grants & Awards | Sayanton Dibbo
   <div class="grant-title">Dean's Distinguished Fellowship <span class="grant-date">2017</span></div>
   <div class="grant-org">UC Riverside, Bourns College of Engineering</div>
 </div>
+<style>
+  .sidebar-logos {
+    display: flex;
+    flex-direction: column; /* Stacks them vertically */
+    gap: 20px;
+    margin-top: 30px;
+    align-items: center; /* Centers logos in the sidebar width */
+    max-width: 200px; /* Adjust based on your sidebar width */
+  }
+
+  .sidebar-logos img {
+    width: 100%;
+    height: auto;
+    max-width: 150px; /* Controls the maximum size of the logos */
+    filter: grayscale(20%); /* Optional: makes logos look more uniform */
+    transition: filter 0.3s ease;
+  }
+
+  .sidebar-logos img:hover {
+    filter: grayscale(0%);
+  }
+</style>
+
+<div class="sidebar-logos">
+  <a href="https://www.ua.edu/">
+    <img src="assets/img/NVIDIA-logo.png" alt="Our Research Supported by NVIDIA">
+  </a>
+  <a href="https://ai.eng.ua.edu/">
+    <img src="assets/img/Google-logo.png" alt="Our Research Supported by Google">
+  </a>
+</div>
