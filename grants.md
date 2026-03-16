@@ -6,7 +6,7 @@ title: Grants & Awards | Sayanton Dibbo
 <style>
   .nav-buttons { display: flex; gap: 12px; margin-bottom: 30px; border-bottom: 1px solid #eee; padding-bottom: 20px; }
   .nav-buttons a { text-decoration: none; padding: 8px 16px; border: 2px solid #003366; border-radius: 6px; color: #003366; font-weight: 600; }
-  .nav-buttons a:hover, .nav-buttons a.active { background-color: #003366; color: white; }
+  .nav-buttons a:hover, .nav-buttons a.active { background-color: #ADD8E6; color: white; }
 
   .grant-card {
     background: #ffffff;
