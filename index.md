@@ -115,3 +115,8 @@ Please find the list of ongoing projects my team is working on: <a href="./asset
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+<div class="sidebar-logos">
+    <img src="assets/img/NVIDIA-Logo.png" alt="Our Research Supports">
+    <img src="assets/img/Google-logo.png" alt="Our Research Supported by Google">
+</div>
