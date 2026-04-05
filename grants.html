@@ -35,6 +35,13 @@ title: Grants & Awards | Sayanton Dibbo
 <h2 class="section-header">External Research Funding</h2>
 
 <div class="grant-card">
+  <div class="grant-title">NVIDIA Academic Research Award <span class="grant-date">2026 - 2027</span></div>
+  <div class="grant-org">Google</div>
+  <div class="grant-desc">Funding LLM Hallucination Research at the University of Alabama.</div>
+</div>
+
+
+<div class="grant-card">
   <div class="grant-title">Google Cloud Research Credit Award <span class="grant-date">2025 - 2026</span></div>
   <div class="grant-org">Google</div>
   <div class="grant-desc">Funding for computational resources to support research in Trustworthy AI and Foundation Model Robustness at the University of Alabama.</div>
