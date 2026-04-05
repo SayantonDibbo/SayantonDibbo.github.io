@@ -42,10 +42,10 @@ I am an Assistant Professor in the CS department at the <a href="https://eng.ua.
 (ALA-AI)</a> and Alabama Cyber Institution & HPC. At UA, I direct the Trustworthy AI (TAI) research Lab. I have received my Ph.D. in CS from the <a href="https://web.cs.dartmouth.edu/">Dartmouth College</a>. Prior to that, I have worked on AI/ML and Security/Privacy with <a href="https://lanl.gov/">Los Alamos National Laboratory (LANL)</a> and <a href="https://www.finra.org/">Financial Regulatory Authority (FINRA)</a>. Before joining Dartmouth, I received my MS in CS from the <a href="https://www1.cs.ucr.edu/">University of California, Riverside</a>. 
 
 <marquee behavior="scroll" direction="left" scrollamount="5">
-  <p style="color:red">Our research is supported by NVIDIA  </p>
+  <p style="color:red">Thank you NVIDIA  for supporting our research</p>
 </marquee>
 <marquee behavior="scroll" direction="left" scrollamount="5">
-  <p style="color:pink">Our research is supported by Google Cloud</p>
+  <p style="color:pink">Thank you Google Cloud for your support</p>
 </marquee>
 
 
