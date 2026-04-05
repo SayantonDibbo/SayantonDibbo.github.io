@@ -101,6 +101,9 @@ title: Grants & Awards | Sayanton Dibbo
   }
 </style>
 
+## Our Research Sponsors: NVIDIA & Google
+
+
 <div class="sidebar-logos">
     <img src="assets/img/NVIDIA-Logo.png" alt="Our Research Supports">
     <img src="assets/img/Google-logo.png" alt="Our Research Supported by Google">
