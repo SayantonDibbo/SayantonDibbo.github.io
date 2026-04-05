@@ -116,7 +116,7 @@ Please find the list of ongoing projects my team is working on: <a href="./asset
 
 {% include_relative _includes/services.md %}
 
-## Our Research Sponsors
+## Our Research Sponsors: NVIDIA & Google
 
 
 <div class="sidebar-logos">
