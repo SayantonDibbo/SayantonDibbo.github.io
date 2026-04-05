@@ -102,7 +102,7 @@ title: Research | Sayanton Dibbo
   <div class="author-list">
      David Amebley, <span class="me">Sayanton Dibbo</span>
   </div>
-  <span class="venue">Pre-print (*Under Review)</span>
+  <span class="venue">USENIX WOOT'26</span>
   <div class="paper-links">
     <a href="./assets/files/arxiv-vlm25.pdf" class="btn-sm">PDF</a>
     <a href="https://anonymous.4open.science/r/Neuro-VLM-resilience-47FF/README.md" class="btn-sm">Code</a>
