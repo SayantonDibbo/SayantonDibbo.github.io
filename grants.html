@@ -26,6 +26,7 @@ title: Grants & Awards | Sayanton Dibbo
 </style>
 
 <div class="nav-buttons">
+    <a href="index.html">Home</a>
   <a href="assets/files/resume_Sdibbo.pdf">CV</a>
   <a href="research.html">Research</a>
   <a href="teaching.html">Teaching</a>
