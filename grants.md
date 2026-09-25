@@ -26,10 +26,12 @@ title: Grants & Awards | Sayanton Dibbo
 </style>
 
 <div class="nav-buttons">
-  <a href="index.html">Home</a>
+  <a href="assets/files/resume_Sdibbo.pdf">CV</a>
   <a href="research.html">Research</a>
   <a href="teaching.html">Teaching</a>
-  <a href="grants.html" class="active">Grants</a>
+  <a href="grants.html">Grants</a>
+  <a href="lab.html">Lab</a>
+
 </div>
 
 <h2 class="section-header">External Research Funding</h2>
