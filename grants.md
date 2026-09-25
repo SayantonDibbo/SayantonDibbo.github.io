@@ -107,6 +107,6 @@ title: Grants & Awards | Sayanton Dibbo
 <div class="sidebar-logos">
     <img src="assets/img/NVIDIA-Logo.png" alt="Our Research Supported by NVIDIA">
     <img src="assets/img/google-logo.png" alt="Our Research Supported by Google">
-      <img src="assets/img/google-logo.png" alt="Our Research Supported by NSA">
+      <img src="assets/img/nsa-logo.png" alt="Our Research Supported by NSA">
 
 </div>
