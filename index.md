@@ -31,6 +31,7 @@ layout: homepage
   <a href="research.html">Research</a>
   <a href="teaching.html">Teaching</a>
   <a href="grants.html">Grants</a>
+  <a href="lab.html">Lab</a>
 </div>
 
 
