@@ -1,7 +1,7 @@
 
 ---
 layout: homepage
-title: Grants & Awards | Sayanton Dibbo
+title: Research Lab | Sayanton Dibbo
 ---
 
 <style>
@@ -33,76 +33,9 @@ title: Grants & Awards | Sayanton Dibbo
   <a href="grants.html" class="active">Grants</a>
 </div>
 
-<h2 class="section-header">External Research Funding</h2>
-
-<div class="grant-card">
-  <div class="grant-title">NVIDIA Academic Research Grant <span class="grant-date">2026 - 2027</span></div>
-  <div class="grant-org">Google</div>
-  <div class="grant-desc">Funding LLM Hallucination Research at the University of Alabama.</div>
-</div>
 
 
-<div class="grant-card">
-  <div class="grant-title">Google Cloud Research Credit Award <span class="grant-date">2025 - 2026</span></div>
-  <div class="grant-org">NVIDIA</div>
-  <div class="grant-desc">Funding for computational resources to support research in Trustworthy AI and Foundation Model Robustness at the University of Alabama.</div>
-</div>
-
-<h2 class="section-header">Faculty Fellowships</h2>
-
-<div class="grant-card">
-  <div class="grant-title">Hewson Engineering Faculty Fellow <span class="grant-date">2025 - Present</span></div>
-  <div class="grant-org">Styslinger College of Engineering, The University of Alabama</div>
-  <div class="grant-desc">Awarded to outstanding early-career faculty to support research initiatives, student mentorship, and laboratory development.</div>
-</div>
-
-<h2 class="section-header">Research Awards & Honors</h2>
-
-<div class="grant-card">
-  <div class="grant-title">Cybersecurity Cluster Research Fellow <span class="grant-date">2024 - 2025</span></div>
-  <div class="grant-org">Dartmouth College</div>
-</div>
-
-<div class="grant-card">
-  <div class="grant-title">NSF SaTC Aspiring PI Award <span class="grant-date">2023</span></div>
-  <div class="grant-org">National Science Foundation (NSF)</div>
-  <div class="grant-desc">Participation in the Secure & Trustworthy Cyberspace (SaTC) workshop for rising researchers in cybersecurity.</div>
-</div>
-
-<div class="grant-card">
-  <div class="grant-title">Graduate Student Council Travel Grant <span class="grant-date">2024</span></div>
-  <div class="grant-org">Dartmouth College</div>
-  <div class="grant-desc">Awarded for presenting research at ICASSP 2024.</div>
-</div>
-
-<div class="grant-card">
-  <div class="grant-title">Dean's Distinguished Fellowship <span class="grant-date">2017</span></div>
-  <div class="grant-org">UC Riverside, Bourns College of Engineering</div>
-</div>
-<style>
-  .sidebar-logos {
-    display: flex;
-    flex-direction: column; /* Stacks them vertically */
-    gap: 20px;
-    margin-top: 30px;
-    align-items: center; /* Centers logos in the sidebar width */
-    max-width: 200px; /* Adjust based on your sidebar width */
-  }
-
-  .sidebar-logos img {
-    width: 100%;
-    height: auto;
-    max-width: 150px; /* Controls the maximum size of the logos */
-    filter: grayscale(20%); /* Optional: makes logos look more uniform */
-    transition: filter 0.3s ease;
-  }
-
-  .sidebar-logos img:hover {
-    filter: grayscale(0%);
-  }
-</style>
-
-## Our Research Sponsors: NVIDIA & Google
+## Our Research Lab
 
 
 <div class="sidebar-logos">
