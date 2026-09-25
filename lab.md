@@ -33,6 +33,9 @@ title: Research Lab | Sayanton Dibbo
   <a href="grants.html" class="active">Grants</a>
 </div>
 
+<h2 class="highlight-title">Our Research Lab Members</h2>
+
+
 <style>
   .sidebar-logos {
     display: flex;
@@ -54,9 +57,7 @@ title: Research Lab | Sayanton Dibbo
   <img src="assets/img/Lab_pic3.png" alt="Our Research Supported by Partner">
 </div>
 
-
-## Our Research Lab Supporters
-
+<h2 class="highlight-title">Our Research Lab Supporters</h2>
 
 
 <div class="sidebar-logos">
