@@ -37,7 +37,7 @@ title: Teaching | Sayanton Dibbo
 <div class="teaching-item">
   <div class="course-name">CS 692: Mentored Research Experience</div>
   <div class="course-details">Instructor | Fall 25, Spring 26 </div>
-  <p>Mentored graduate student in AI/ML and Security/Privacy Research.</p>
+  <p>Mentored graduate students in AI/ML and Security/Privacy Research.</p>
 </div>
 
 ## Prior Teaching Experience (Dartmouth College)
