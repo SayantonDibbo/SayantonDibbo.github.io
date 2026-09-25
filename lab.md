@@ -33,13 +33,25 @@ title: Research Lab | Sayanton Dibbo
   <a href="grants.html" class="active">Grants</a>
 </div>
 
-## Our Research Lab Members
+<style>
+  .sidebar-logos {
+    display: flex;
+    flex-direction: column;   /* stack images vertically */
+    align-items: center;      /* center them horizontally */
+    gap: 15px;                /* space between images */
+  }
+
+  .sidebar-logos img {
+    display: block;
+    max-width: 100%;          /* keep images inside the sidebar */
+    height: auto;
+  }
+</style>
 
 <div class="sidebar-logos">
-    <img src="assets/img/Lab_pic1.png" alt="Our Research Supports">
-    <img src="assets/img/Lab_pic2.png" alt="Our Research Supported by Google">
-      <img src="assets/img/Lab_pic2.png" alt="Our Research Supported by Google">
-
+  <img src="assets/img/Lab_pic1.png" alt="Our Research Supports">
+  <img src="assets/img/Lab_pic2.png" alt="Our Research Supported by Google">
+  <img src="assets/img/Lab_pic3.png" alt="Our Research Supported by Partner">
 </div>
 
 
