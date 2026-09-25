@@ -37,7 +37,9 @@ title: Research Lab | Sayanton Dibbo
 
 <div class="sidebar-logos">
     <img src="assets/img/Lab_pic1.png" alt="Our Research Supports">
-    <img src="assets/img/google-logo.png" alt="Our Research Supported by Google">
+    <img src="assets/img/Lab_pic2.png" alt="Our Research Supported by Google">
+      <img src="assets/img/Lab_pic2.png" alt="Our Research Supported by Google">
+
 </div>
 
 
