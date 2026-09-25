@@ -32,7 +32,9 @@ layout: homepage
   <a href="teaching.html">Teaching</a>
   <a href="grants.html">Grants</a>
   <a href="lab.html">Lab</a>
+
 </div>
+
 
 
 
@@ -41,6 +43,14 @@ layout: homepage
 
 I am an Assistant Professor in the CS department at the <a href="https://eng.ua.edu/departments/computer-science/">University of Alabama</a> and a faculty affiliate of  <a href="https://ai.eng.ua.edu/"> Alabama Center for the Advancement of AI
 (ALA-AI)</a> and Alabama Cyber Institution & HPC. At UA, I direct the Trustworthy AI (TAI) research Lab. I have received my Ph.D. in CS from the <a href="https://web.cs.dartmouth.edu/">Dartmouth College</a>. Prior to that, I have worked on AI/ML and Security/Privacy with <a href="https://lanl.gov/">Los Alamos National Laboratory (LANL)</a> and <a href="https://www.finra.org/">Financial Regulatory Authority (FINRA)</a>. Before joining Dartmouth, I received my MS in CS from the <a href="https://www1.cs.ucr.edu/">University of California, Riverside</a>. 
+My research interests span the areas of Deep Learning, Computer Vision, and Secure & Trustworthy AI/ML modeling.  In particular, I am (1) analyzing data-driven AI/ML systems, including foundation models  (e.g., LLMs and Multimodal systems), and (2) focusing on security and privacy aspects of the data involved in traditional ML as well as foundational models to investigate attacks (adversarial and privacy) and develop novel defense techniques to enhance robustness. My research spans various data modalities, including images, tabular, audio, and text data.\\
+
+In my free time, I love to travel to new places.\\
+
+<p style="color:red">I am looking for highly motivated students (undergraduate and graduate) to work with me at the <a href="https://www.ua.edu/">University of Alabama</a>, trustworthy AI Lab. If interested (graduate students), please apply to <a href="https://slate.ua.edu/apply/"> UA graduate program</a> and feel free to mention my name in the Statement of purpose (SOP) document. You are welcome to fill out <a href="https://forms.office.com/r/c3JgEBTYrK?origin=lprLink">this form</a>  as well and email me (<a href="sdibbo@ua.edu">sdibbo@ua.edu</a>) your application package with application ID with the subject line "Prospective AI/ML/Cyber Student". UG students should email me directly.  </p>
+
+Please find the list of ongoing projects my team is working on: <a href="./assets/files/TrustAI-Projects.pdf">project description</a>
+
 
 <marquee behavior="scroll" direction="left" scrollamount="5">
   <p style="color:red">Thank you NVIDIA  for supporting our research</p>
@@ -48,24 +58,6 @@ I am an Assistant Professor in the CS department at the <a href="https://eng.ua.
 <marquee behavior="scroll" direction="left" scrollamount="5">
   <p style="color:pink">Thank you Google Cloud for your support</p>
 </marquee>
-
-
-My research interests span the areas of Deep Learning, Computer Vision, and Secure & Trustworthy AI/ML modeling.  In particular, I am (1) analyzing data-driven AI/ML systems, including foundation models  (e.g., LLMs and Multimodal systems), and (2) focusing on security and privacy aspects of the data involved in traditional ML as well as foundational models to investigate attacks (adversarial and privacy) and develop novel defense techniques to enhance robustness. My research spans various data modalities, including images, tabular, audio, and text data.
-
-
-
-In my free time, I love to travel to new places.
-
-<p style="color:red">I am looking for highly motivated students (undergraduate and graduate) to work with me at the <a href="https://www.ua.edu/">University of Alabama</a>, trustworthy AI Lab. If interested (graduate students), please apply to <a href="https://slate.ua.edu/apply/"> UA graduate program</a> and feel free to mention my name in the Statement of purpose (SOP) document. You are welcome to fill out <a href="https://forms.office.com/r/c3JgEBTYrK?origin=lprLink">this form</a>  as well and email me (<a href="sdibbo@ua.edu">sdibbo@ua.edu</a>) your application package with application ID with the subject line "Prospective AI/ML/Cyber Student". UG students should email me directly.  </p>
-
-
-
-
-Please find the list of ongoing projects my team is working on: <a href="./assets/files/TrustAI-Projects.pdf">project description</a>
-
-
-
-
 
 ## Research Interests
 
@@ -88,9 +80,10 @@ Please find the list of ongoing projects my team is working on: <a href="./asset
 - **Graduate Research & Teaching Assistant & Cybersecurity Cluster Research Fellow** Dartmouth College (2020-2025)
 - **Research Intern** Dartmouth College (Fall 2019-Summer 2020)
 
+
 ## News
 - **[Mar 2025]** <strong>NVIDIA Academic Grant </strong> Awarded to TAI Lab. Thank you, NVIDIA!!
-- **[Dec. 2025]** <strong>Google Cloud Research Credit</strong> Awarded to TAI Lab. Thank you, Google!!
+- **[Dec. 2025]** <strong>Google Cloud Research Credit Award</strong> Awarded to TAI Lab. Thank you, Google!!
 - **[Nov. 2025]** Awarded Hewson Faculty Fellow, Styslinger College of Engineering at UA.
 - **[Aug. 2025]** Accepted Invitation to serve USENIX Security and ACM CCS PC 2026.
 - **[Jan. 2025]** Accepted Tenure Track Assistant Prof. @University of Alabama CS starting Fall 2025.
@@ -104,7 +97,7 @@ Please find the list of ongoing projects my team is working on: <a href="./asset
 - **[Aug. 2023]** Presented Research Poster @ ACM ICONS, Santa Fe, NM.
 - **[Jul. 2023]** Presented my paper @ IEEE CSF 2023.
 - **[Jun. 2023]** Started Internship @ the Los Alamos National Laboratory (LANL), NM.
-- **[May. 2023]** Serve AE Committe, USENIX Security'23.
+- **[May. 2023]** Serve AE Committee, USENIX Security'23.
 - **[May. 2023]** Attended NSF SaTC Aspiring PI Workshop, George Washington University, DC.
 - **[Apr. 2023]** My paper on Model Inversion Attack Review got accepted @IEEE CSF 2023.
 - **[Feb. 2023]** Presented my paper @IEEE SaTML 2023.
@@ -116,14 +109,17 @@ Please find the list of ongoing projects my team is working on: <a href="./asset
 - **[Mar. 2021]** Our paper on On-Phone Implicit Authentication was accepted @ EAI SaSeIoT'21.
 
 
+
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
 
-## Our Research Sponsors: NVIDIA & Google
+## Our Research Sponsors: NVIDIA, Google, & NSA
 
 
 <div class="sidebar-logos">
-    <img src="assets/img/NVIDIA-Logo.png" alt="Our Research Supports">
+    <img src="assets/img/NVIDIA-Logo.png" alt="Our Research Supported by NVIDIA">
     <img src="assets/img/google-logo.png" alt="Our Research Supported by Google">
+      <img src="assets/img/nsa-logo.png" alt="Our Research Supported by NSA">
+
 </div>
