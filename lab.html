@@ -33,9 +33,16 @@ title: Research Lab | Sayanton Dibbo
   <a href="grants.html" class="active">Grants</a>
 </div>
 
+## Our Research Lab Members
+
+<div class="sidebar-logos">
+    <img src="assets/img/NVIDIA-Logo.png" alt="Our Research Supports">
+    <img src="assets/img/Google-logo.png" alt="Our Research Supported by Google">
+</div>
 
 
-## Our Research Lab
+## Our Research Lab Supporters
+
 
 
 <div class="sidebar-logos">
